@@ -1,0 +1,8 @@
+This is a custom app laucher with a very minimalistic UI.
+
+I wanted to try android development one day so I decided to build
+a minimalistic app laucher for my android phone.
+
+I used kotlin to code the app as it's more preferred over java by
+the android team. So it was a new experience for me in a new language
+aswell as a new environment.

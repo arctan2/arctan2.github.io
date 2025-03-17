@@ -1,0 +1,9 @@
+I used kotlin just because I didn't want to use java.
+
+I don't have much experience in kotlin. I just wanted to try
+out android development so I had 2 choices, java and kotlin.
+I didn't want to interact with java in any shape or form so I
+chose kotlin.
+
+I build a minimal app launcher for android. I'd like to continue
+my native app journey when I get a good hardware.

@@ -1,0 +1,11 @@
+C is one of my favorite languages to work with.
+
+I like the simplicity of C. It tests how deep your understanding
+of computers and software is. I simply like to play around with raw
+pointers which makes me feel like I'm the one incharge.
+
+The things I've built with C:
+
+> ctodo: A todo app in terminal with ncurses interface
+> iot-project: Iot based toll collection system where I wrote the code
+			   for esp32 in c/c++

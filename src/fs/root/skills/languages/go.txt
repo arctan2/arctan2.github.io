@@ -1,0 +1,9 @@
+This is one of my favorite programming languages to work with.
+
+I will choose to work with this for backend related tasks or even for 
+simple tools. It's actually even simpler than python in my opinion.
+
+The things I've used Go for:
+
+> othello: Real time multiplayer othello game
+> ludo-go: Real time multiplayer ludo game with raw tcp connection.

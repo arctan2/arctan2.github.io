@@ -1,0 +1,8 @@
+Othello is a real time multiplayer othello game written in react and
+golang.
+
+I made this project to implement a websocket server in golang.
+
+It also has a terminal based client written in rust where you can play
+the game in the terminal aswell as web browser seamlessly which uses the
+same backend.

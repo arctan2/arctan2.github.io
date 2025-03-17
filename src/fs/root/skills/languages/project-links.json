@@ -1,0 +1,17 @@
+{
+	"typescript": {
+		"i-wanna-see-stuff-work": "github.com/arctan2/i-wanna-see-stuff-work",
+		"othello": "github.com/arctan2/othello"
+	},
+	"go": {
+		"othello": "github.com/arctan2/othello",
+		"ludo-go": "github.com/arctan2/ludo-go",
+		"cadny-cursh": "github.com/arctan2/cadny-cursh"
+	},
+	"c": {
+		"ctodo": "github.com/arctan2/ctodo"
+	},
+	"kotlin": {
+		"custom-app-launcher": "github.com/arctan2/custom-app-launcher"
+	}
+}

@@ -1,0 +1,5 @@
+This project has taught me what goes into building a android app natively.
+
+> I learnt kotlin ofcourse.
+> I learnt about the basics of android architecture
+> I got to know why the things are the way it is in android.

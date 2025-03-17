@@ -1,0 +1,7 @@
+It was pretty simple game actually to implement.
+
+> I learnt how to use websockets in golang
+> I learnt how to play othello
+> The rust based client uses a custom draw manager
+  for the terminal.
+> I learnt so many things about rust

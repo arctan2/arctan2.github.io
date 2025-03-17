@@ -1,0 +1,7 @@
+i-wanna-see-stuff-work taught me a lot of things which include:
+
+> Ofcourse I learnt so many datastructures and algorithms.
+> How 2d graphics works.
+> HTML canvas API
+> Memory allocators in depth
+> Using all those math(which I thought were useless in school) practically in 2d graphics

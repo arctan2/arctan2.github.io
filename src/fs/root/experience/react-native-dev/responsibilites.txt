@@ -1,0 +1,7 @@
+I had to read the documentation which was provided by the company
+to accomplish the following tasks:
+
+> Build the user interface in react-native
+> Integrate data with backend endpoints
+> Manage the state on the client
+> Handle geolocation data of the device

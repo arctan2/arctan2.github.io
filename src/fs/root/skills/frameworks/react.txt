@@ -1,0 +1,7 @@
+React is the popular framework so I learnt it.
+
+I don't hate react but also don't really like it aswell.
+I wouldn't consider using React for my future projects.
+
+But I will use react-native to get a mobile app up and running
+if I need to.

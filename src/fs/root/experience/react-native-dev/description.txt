@@ -1,0 +1,8 @@
+I was put in a software team where I was tasked to build
+a mobile application in react native.
+
+I had to build the react-native app frontend which integrated
+with the backend API written in .NET.
+
+The app required a authentication, multiple device login handling,
+handling the geolocation of the device etc.

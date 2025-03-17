@@ -1,0 +1,10 @@
+Vue is my goto frontend framework.
+
+I use vue for all my new web related projects. It's just
+simpler than other framework and easy to use.
+
+The things I've made using vue:
+
+> i-wanna-see-stuff-work: The DSA visualizer
+> send-css: Chat app where you can embed css
+> iVue: Vue based image gallery

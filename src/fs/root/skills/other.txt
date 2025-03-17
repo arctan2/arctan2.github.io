@@ -1,0 +1,9 @@
+The other skills I have are:
+
+> NeoVim: I use nvim as my main editor. I'm intermidiate in vim motions.
+		  I can use nvim fairly well although I'm not an expert.
+
+> Linux: I can easily operate in a Linux environment.
+
+> Intuition: Although it's not a skill but I can quickly grasp information
+			 and understand context in an environment.

@@ -1,0 +1,10 @@
+This is the language which I've worked with the most.
+
+I build all the frontend web related things in typescript. I have used it
+to build backend API's in the past. But I won't be using it for future projects
+as I prefer golang for such tasks.
+
+The things I've used typescript for:
+
+> i-wanna-see-stuff-work: The DSA visualizer
+> othello: Real time othello multiplayer game

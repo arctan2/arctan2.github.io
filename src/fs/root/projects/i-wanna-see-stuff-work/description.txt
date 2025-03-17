@@ -1,0 +1,11 @@
+i-wanna-see-stuff-work is a project which started as a sorting visualizer
+and went to become a full on data structure and algorithm visualizer.
+
+I wanted to learn advanced data structures and algorithms so instead of
+following a tutorial, I decided to make a visualization project out of it.
+
+But there were already so many DSA visualization out there. So to make something
+unique I wrote a custom memory allocator visualizer aswell which integrates with
+the data structures interactively.
+
+link: arctan2.github.io/i-wanna-see-stuff-work
