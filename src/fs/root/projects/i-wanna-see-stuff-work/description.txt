@@ -8,4 +8,4 @@ But there were already so many DSA visualization out there. So to make something
 unique I wrote a custom memory allocator visualizer aswell which integrates with
 the data structures interactively.
 
-link: arctan2.github.io/i-wanna-see-stuff-work
+link: https://arctan2.github.io/i-wanna-see-stuff-work

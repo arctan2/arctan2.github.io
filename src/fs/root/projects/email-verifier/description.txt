@@ -1,0 +1,13 @@
+I had to write a bulk email verification tool for a company.
+The existing platforms to verify emails are a bit expensive,
+so to reduce the cost I made a cli tool to verify emails in bulk.
+
+I used Golang due it's best concurrency model. I was able to verify
+emails in bulk now. But I also needed to make a frontend so it's easily
+usable for others. So I made a web frontend using Vue and to store the 
+data MySql is used.
+
+I made it so that you can see the current verification batches states
+update in realtime.
+
+link: https://github.com/arctan2/email-verifier

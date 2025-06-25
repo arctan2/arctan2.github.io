@@ -1,0 +1,6 @@
+email-verifier taught me a lot of things which include:
+
+> How email verification works
+> Building concurrent systems using Go
+> About proxies, socks5 proxies especially
+> SMTP servers

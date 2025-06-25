@@ -1,8 +1,5 @@
 This is actually my first language which I learnt.
 
-I haven't actually built anything big with python but I've learnt
-so many things from it.
-
-I've built a pdf analyzer to scrape information from pdf files. It 
-basically analyzed the pdf file and extracted data from pdf table
-and created a dictionary of the table.
+I haven't actually built anything big with python I've learnt
+so many things from it. I've built a pdf analyzer to scrape
+information from pdf files.
