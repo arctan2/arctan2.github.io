@@ -1,0 +1,9 @@
+I started learning express.js when I was first starting
+with backend development.
+
+All I knew was javascript back then. So MERN and all was
+pretty popular back then. So there were plenty of tutorial
+on express. It was a good starting point for a newbie like me.
+
+But I don't use js/ts for backend at all now. But I got the basics
+of backend stuff from express.

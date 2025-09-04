@@ -1,0 +1,7 @@
+It was pretty simple game actually to implement.
+
+I learnt:
+> Spring boot
+> Angular 20
+> less
+> STOMP

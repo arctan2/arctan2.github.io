@@ -1,0 +1,9 @@
+Quoridor is a real time multiplayer quoridor game written using
+enterprise-y tools: spring-boot and angular.
+
+I made this project to learn spring-boot and angular.
+
+It's simple project. I already new the core stuff. It's just
+like seeing into other peoples' opinion. I won't be using
+this stack for my future projects though. It's decent but
+bloated.

@@ -1,0 +1,5 @@
+I started to learn about databases from mongodb.
+I was a MERN stack user when I was a beginner.
+So yes, I used mongodb for all my projects when I
+was a beginner because I didn't want to learn SQL
+which was a whole new language.

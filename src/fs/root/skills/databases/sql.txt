@@ -1,0 +1,5 @@
+SQL is pretty cool. I've used MySQL for my recent
+projects. I've done some pretty cool offbeat stuff
+with SQL.
+
+It's the default database which I choose now.

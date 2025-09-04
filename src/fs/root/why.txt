@@ -1,0 +1,13 @@
+Hello welcome to my terminal emulator portfolio!
+
+It's just a simple terminal emulator where you can navigate the files and
+directories to go through my portfolio.
+
+This style of interface let's me express myself more content wise, as I need
+not worry about the aestheics and just focus on the words.
+
+I don't know why I chose this style of interface. It sounded cool and makes me
+look smart(I am not).
+
+I built the json syntax highlighter and collapse thing myself by the way.
+

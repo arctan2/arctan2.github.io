@@ -1,0 +1,10 @@
+I wanted to see what the latest angular 20 offers.
+
+People on the internet said angular has become cool
+now.
+
+I haven't tried any of the older versions of angular. So
+I don't really have a good comparsion.
+
+Angular 20 is decent. Templating of angular is kinda cool.
+I see why enterprises use them.

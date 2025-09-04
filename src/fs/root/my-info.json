@@ -1,0 +1,59 @@
+{
+	"name": "Prateek",
+	"email": "prateekbm005@gmail.com",
+	"links": {
+		"github": "github.com/arctan2",
+		"linkedin": "linkedin.com/in/prateekbm"
+	},
+	"skills": {
+		"programming_languages": ["ts", "go", "c", "python", "kotlin", "java"],
+		"frameworks": ["vue", "react", "express", "react-native", "angular"],
+		"database": ["mysql", "mongodb"],
+		"other": ["linux", "neovim", "math", "intuition", "reading docs"]
+	},
+	"expertise": ["fullstack-development"],
+	"projects": {
+		"i-wanna-see-stuff-work": {
+			"made_with": ["vue", "html", "css", "ts"],
+			"description": "Coolest datastructure and algorithms visualizer",
+			"link": "https://arctan2.github.io/i-wanna-see-stuff-work/"
+		},
+		"email-verifier": {
+			"made_with": ["vue", "go", "ts"],
+			"description": "A bulk email verification software.",
+			"link": "https://github.com/arctan2/email-verifier"
+		},
+		"custom-app-launcher": {
+			"made_with": ["kotlin", "android"],
+			"description": "My own custom app launcher for android",
+			"link": "https://github.com/arctan2/custom-app-launcher"
+		}
+	},
+	"experience": {
+		"react-native-dev": {
+			"org": "Averon Infotech",
+			"location": "Pune",
+			"duration": {
+				"from": "Jan 2024",
+				"to": "Feb 2025"
+			},
+			"responsibilities": [
+				"Build the user interface in react-native", 
+				"integrate data with backend endpoints", 
+				"manage the state on the client",
+				"handle geolocation data of the device"
+			]
+		}
+	},
+	"fields_of_interest": [
+		"graphics-programming", "os-dev",
+		"mathematics", "networking",
+		"linguistics", "philosophy", "science"
+	],
+	"about_me": [
+		"Driven and intuitive",
+		"I honed my skills in programming by pure curiosity and my passion for problem solving.",
+		"Although my expertise lies in web development, I have explored and am still exploring various other technologies.",
+		"I just simply have a deep passion in building software, science and mathematics and other related fields."
+	]
+}
